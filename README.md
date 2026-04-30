@@ -9,10 +9,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitsingh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhankit001/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhankit91624@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://evox-ventures.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/singhankit001)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhankit001)
 
 <br/>
@@ -65,7 +65,7 @@
         <li>Deployment-ready Docker architecture</li>
       </ul>
       <p align="center">
-        <a href="#"><b>Live Demo</b></a> | <a href="#"><b>GitHub</b></a>
+        <a href="https://github.com/singhankit001/shopsphere"><b>GitHub</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -82,7 +82,7 @@
         <li>Interactive AI career guidance</li>
       </ul>
       <p align="center">
-        <a href="#"><b>Live Demo</b></a> | <a href="#"><b>GitHub</b></a>
+        <a href="https://github.com/singhankit001/skillsync-ai"><b>GitHub</b></a>
       </p>
     </td>
   </tr>
@@ -97,7 +97,7 @@
       </p>
       <p align="center">Premium landing page with a focus on responsive UI and brand-first experience. Architected for high-performance production deployment.</p>
       <p align="center">
-        <a href="https://evoxventures.com"><b>Visit Website</b></a> | <a href="https://github.com/singhankit001/evox-ventures"><b>GitHub</b></a>
+        <a href="https://evox-ventures.vercel.app/"><b>Visit Website</b></a> | <a href="https://github.com/singhankit001/evox-ventures"><b>GitHub</b></a>
       </p>
     </td>
   </tr>
@@ -164,8 +164,6 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=singhankit001&theme=react-dark&hide_border=true&area=true&bg_color=020617&color=38bdf8&line=a855f7&point=22c55e&area_color=06b6d4&title_color=38bdf8" />
 </p>
 
-
-
 <br/>
 
 <h2 align="center">🏆 Achievements</h2>
@@ -224,12 +222,11 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/View%20Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/singhankit001/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:singhankit91624@gmail.com"><img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://evox-ventures.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:7c3aed,100:06b6d4&height=120&section=footer" width="100%" />
 </p>
-
