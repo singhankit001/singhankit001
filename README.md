@@ -45,7 +45,7 @@ const developer = {
     ai: ["Machine Learning", "AI Integrations"]
   },
 
-  motto: "Build. Learn. Ship. Repeat.",
+  motto: "Build, Learn, Sleep, Repeat.",
   available: true
 };
 ```
