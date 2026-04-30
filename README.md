@@ -24,10 +24,11 @@
 <br/>
 <br/>
 
-<table width="100%" border="0">
-  <tr>
-    <td width="65%" valign="top">
-      <h3><code>~/profile ❯ whoami</code></h3>
+<br/>
+
+<h3><code>~/profile ❯ whoami</code></h3>
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="developer coding" />
 
 ```javascript
 const developer = {
@@ -50,19 +51,14 @@ const developer = {
 };
 ```
 
-<ul>
-  <li>🚀 Currently building <b>AI-powered full-stack products</b></li>
-  <li>🧠 Exploring <b>AI/ML, automation, and scalable web systems</b></li>
-  <li>💬 Ask me about <b>React, Node.js, Python, SQL, and AI projects</b></li>
-  <li>📫 Reach me at: <b>singhankit91624@gmail.com</b></li>
-</ul>
-    </td>
-    <td width="35%" align="center" valign="top">
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="developer coding" width="100%" />
-    </td>
-  </tr>
-</table>
+<br/>
+
+- 🚀 Currently building **AI-powered full-stack products**
+- 🧠 Exploring **AI/ML, automation, and scalable web systems**
+- 💬 Ask me about **React, Node.js, Python, SQL, and AI projects**
+- 📫 Reach me at: **singhankit91624@gmail.com**
+
+<br clear="all" />
 
 <br/>
 
