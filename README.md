@@ -15,9 +15,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/singhankit001)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhankit001)
 
-<br/>
 
-<img src="https://komarev.com/ghpvc/?username=singhankit001&label=PROFILE+VIEWS&style=flat-square&color=06b6d4" alt="Profile views" />
 
 </div>
 
