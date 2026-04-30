@@ -135,32 +135,35 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/golden.png" width="100%" />
+<p align="center">
+  <i>Performance. Consistency. Production-focused engineering.</i>
+</p>
 
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhankit001&show_icons=true&theme=tokyonight&hide_border=true&title_color=06b6d4&icon_color=7c3aed&text_color=ffffff&bg_color=0f172a" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhankit001&theme=tokyonight&hide_border=true&stroke=06b6d4&background=0f172a&ring=7c3aed&fire=22c55e&currStreakLabel=06b6d4" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhankit001&layout=compact&theme=tokyonight&hide_border=true&title_color=06b6d4&text_color=ffffff&bg_color=0f172a" width="60%" />
-</div>
-
-<br/>
-
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:22c55e&height=3&section=header" width="100%" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=singhankit001&theme=react-dark&hide_border=true&area=true&bg_color=020617&color=38bdf8&line=7c3aed&point=22c55e&area_color=06b6d4" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=singhankit001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=a855f7&text_color=e5e7eb" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=singhankit001&theme=tokyonight&hide_border=true&background=020617&ring=7c3aed&fire=22c55e&currStreakLabel=38bdf8&sideLabels=e5e7eb&dates=94a3b8" />
 </p>
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhankit001&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e5e7eb" />
+</p>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,50:06b6d4,100:7c3aed&height=3&section=header" width="100%" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=singhankit001&theme=react-dark&hide_border=true&area=true&bg_color=020617&color=38bdf8&line=a855f7&point=22c55e&area_color=06b6d4&title_color=38bdf8" />
+</p>
+
 
 
 <br/>
