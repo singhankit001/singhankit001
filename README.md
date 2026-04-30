@@ -26,32 +26,30 @@
 
 <h3><strong><code>&gt; whoami</code></strong></h3>
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="developer coding" />
+<img align="right" width="300" style="border-radius: 12px;" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="developer coding" />
 
 ```javascript
 const developer = {
   name: "Ankit Singh",
   username: "singhankit001",
   role: "AI/ML + Full Stack Developer",
-
   stack: {
     languages: ["Python", "JavaScript", "TypeScript", "SQL"],
     frontend: ["React", "Tailwind CSS"],
     backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
     ai: ["Machine Learning", "AI Integrations"]
   },
-
   motto: "Build, Learn, Sleep, Repeat.",
   available: true
 };
 ```
 
-<br/>
-
-- 🚀 Currently building **AI-powered full-stack products**
-- 🧠 Exploring **AI/ML, automation, and scalable web systems**
-- 💬 Ask me about **React, Node.js, Python, SQL, and AI projects**
-- 📫 Reach me at: **singhankit91624@gmail.com**
+<blockquote>
+  🚀 &nbsp; Currently building <b>AI-powered full-stack products</b> <br/>
+  🧠 &nbsp; Exploring <b>AI/ML, automation, and scalable web systems</b> <br/>
+  💬 &nbsp; Ask me about <b>React, Node.js, Python, SQL, and AI projects</b> <br/>
+  📫 &nbsp; Reach me at: <b><a href="mailto:singhankit91624@gmail.com">singhankit91624@gmail.com</a></b>
+</blockquote>
 
 <br clear="all" />
 
