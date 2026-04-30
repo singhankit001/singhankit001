@@ -65,7 +65,7 @@
         <li>Deployment-ready Docker architecture</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/singhankit001/shopsphere"><b>GitHub</b></a>
+        <a href="https://github.com/singhankit001/shopsphere-platform"><b>GitHub Repo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -82,7 +82,7 @@
         <li>Interactive AI career guidance</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/singhankit001/skillsync-ai"><b>GitHub</b></a>
+        <a href="https://github.com/singhankit001/skillsync-ai"><b>GitHub Repo</b></a>
       </p>
     </td>
   </tr>
@@ -97,7 +97,7 @@
       </p>
       <p align="center">Premium landing page with a focus on responsive UI and brand-first experience. Architected for high-performance production deployment.</p>
       <p align="center">
-        <a href="https://evox-ventures.vercel.app/"><b>Visit Website</b></a> | <a href="https://github.com/singhankit001/evox-ventures"><b>GitHub</b></a>
+        <a href="https://evox-ventures.vercel.app/"><b>Visit Website</b></a> | <a href="https://github.com/singhankit001/evox-ventures"><b>GitHub Repo</b></a>
       </p>
     </td>
   </tr>
