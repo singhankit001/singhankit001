@@ -1,26 +1,27 @@
 <div align="center">
 
-  <!-- Minimal Dark Header -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=120&section=header&text=Ankit%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=40" width="100%" style="border-radius: 12px;" />
-  <br/>
-  
-  <!-- Animated Typing Effect -->
-  <a href="https://linkedin.com/in/ankitsingh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=A1A1AA&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Engineer;AI%2FML+Systems;Building+Scalable+Products" alt="Typing effect" />
-  </a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=42&duration=2000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=900&lines=Ankit+Singh" />
+</h1>
 
-  <!-- Premium Social Badges -->
-  <p>
-    <a href="https://linkedin.com/in/ankitsingh"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-    <a href="https://portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  </p>
-  
-  <!-- Subtle Profile Views Counter -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=singhankit001&label=PROFILE+VIEWS&style=for-the-badge&color=000000" alt="Profile views" />
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2500&pause=800&color=AAAAAA&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;AI%2FML+Systems;Building+Scalable+Products" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ankitsingh"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=singhankit001&label=PROFILE+VIEWS&style=for-the-badge&color=000000" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1f1f1f&height=120&section=header&text=&fontSize=0" />
+</p>
 
 </div>
 
@@ -70,15 +71,15 @@ Engineer focused on building scalable, high-performance systems and AI-driven pr
 - **Tech Stack:** `Next.js` `Node.js` `AWS` `PostgreSQL` `Docker`
 - **Links:** [Live Deployment](#) | [Repository](https://github.com/singhankit001/shopsphere-platform)
 <br/>
-<!-- ADD PROJECT GIF HERE: <img src="./assets/shopsphere.gif" width="100%" /> -->
+<!-- <img src="./assets/shopsphere.gif" width="100%" /> -->
 
 #### 2. SkillSync.ai | Applied AI Matchmaking Engine
 *NLP-driven talent pipeline processing complex heuristic matchmaking.*
 - **Impact:** Built resilient machine learning data pipelines to automate candidate-to-project synchronization.
-- **Tech Stack:** `React` `Express` `MongoDB` `OpenAI API` `Python`
+- **Tech Stack:** `React` `Express` `MongoDB` `OpenAI` `Python`
 - **Links:** [Live Deployment](#) | [Repository](https://github.com/singhankit001/skillsync-ai)
 <br/>
-<!-- ADD PROJECT GIF HERE: <img src="./assets/skillsync.gif" width="100%" /> -->
+<!-- <img src="./assets/skillsync.gif" width="100%" /> -->
 
 #### 3. Evox Ventures | Premium Digital Platform
 *High-fidelity corporate ecosystem built for performance and global reach.*
@@ -86,7 +87,15 @@ Engineer focused on building scalable, high-performance systems and AI-driven pr
 - **Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
 - **Links:** [Live Deployment](https://evoxventures.com) | [Repository](https://github.com/singhankit001/evox-ventures)
 <br/>
-<!-- ADD PROJECT GIF HERE: <img src="./assets/evox.gif" width="100%" /> -->
+<!-- <img src="./assets/evox.gif" width="100%" /> -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### ✦ Achievements & Credentials
+
+- **Lead Developer @ Evox Ventures:** Headed the engineering transition and core product delivery.
+- **Professional Recommendation:** Endorsed for excellence in system architecture and technical leadership.
+- **Certifications:** Recognized for advanced proficiency in full-stack cloud computing and applied AI.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
