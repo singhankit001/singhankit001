@@ -152,8 +152,16 @@
 
 <br/>
 
-### 📈 Contribution Graph
-<img src="https://github-contribution-graph.vercel.app/api/graph?username=singhankit001&theme=dracula" width="100%" />
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:22c55e&height=3&section=header" width="100%" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=singhankit001&theme=react-dark&hide_border=true&area=true&bg_color=020617&color=38bdf8&line=7c3aed&point=22c55e&area_color=06b6d4" />
+</p>
+
 
 <br/>
 
