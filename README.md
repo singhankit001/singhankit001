@@ -24,7 +24,7 @@
 
 <br/>
 
-<h3><code>~/profile ❯ whoami</code></h3>
+<h3><strong><code>&gt; whoami</code></strong></h3>
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="developer coding" />
 
@@ -33,9 +33,6 @@ const developer = {
   name: "Ankit Singh",
   username: "singhankit001",
   role: "AI/ML + Full Stack Developer",
-
-  focus: ["AI Products", "Full Stack Apps", "Automation"],
-  building: ["SkillSync.ai", "ShopSphere", "Evox Ventures"],
 
   stack: {
     languages: ["Python", "JavaScript", "TypeScript", "SQL"],
