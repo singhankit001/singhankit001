@@ -125,7 +125,7 @@ AI-powered career, internship, and project recommendation platform focused on sk
 
 <table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 <h3 align="center">⚡ Evox Ventures</h3>
 
@@ -153,6 +153,37 @@ Premium event company platform designed with a brand-first interface, responsive
 <p align="center">
   <a href="https://evox-ventures.vercel.app/"><img src="https://img.shields.io/badge/Visit%20Website-a855f7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/singhankit001/evox-ventures"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚌 Shuttle Tracker</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Real--time%20Tracking-020617?style=for-the-badge&logo=googlemaps&logoColor=22c55e" />
+</p>
+
+<p align="center">
+Real-time campus shuttle tracking system focused on improving campus mobility and providing low-latency location updates for students.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Leaflet-020617?style=flat-square&logo=leaflet&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Socket.io-020617?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-020617?style=flat-square&logo=express&logoColor=white" />
+</p>
+
+<ul>
+  <li>Integrated real-time GPS tracking for campus shuttles using Socket.io.</li>
+  <li>Improved student navigation experience with an interactive map interface.</li>
+  <li>Optimized backend for efficient, low-latency live location data streaming.</li>
+</ul>
+
+<p align="center">
+  <a href="https://github.com/singhankit001/realtime-shuttle-tracker"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </td>
