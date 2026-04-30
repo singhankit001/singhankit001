@@ -168,30 +168,68 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/violet.png" width="100%" />
+<h2 align="center">🏆 Achievements</h2>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:22c55e&height=3&section=header" width="100%" />
+</p>
 
-## 🎖️ Achievements
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Lead Developer</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Evox%20Ventures-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+      </p>
+      <p align="center">
+        Led the development of a production-grade event company platform with premium UI, responsive architecture, and performance-focused deployment.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Full-Stack Platforms</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/5%2B%20Projects-06b6d4?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
+      <p align="center">
+        Built and deployed full-stack applications across e-commerce, AI career systems, event platforms, and real-time tracking workflows.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📜 Recommendation</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Shuttle%20Tracker-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white" />
+      </p>
+      <p align="center">
+        Received recognition for contributing to a real-time shuttle tracking system focused on usability, reliability, and campus mobility.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Engineering Foundation</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/System%20Design-facc15?style=for-the-badge&logo=amazonec2&logoColor=black" />
+      </p>
+      <p align="center">
+        Strong foundation in scalable backend architecture, distributed systems, AI workflows, cloud deployment, and clean product design.
+      </p>
+    </td>
+  </tr>
+</table>
 
-- 🥇 **Lead Developer @ Evox Ventures** — Headed the development of a production-grade company platform.
-- 🚀 **Built 5+ production-grade** full-stack platforms with modern tech stacks.
-- 📜 **Letter of Recommendation** for the Shuttle Tracker project (Real-time tracking system).
-- 🏗️ **Strong foundation** in system design, distributed backend architecture, and AI systems.
+<br>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Let%E2%80%99s+build+systems+that+scale.;Let%E2%80%99s+ship+products+that+perform.;Let%E2%80%99s+create+real-world+impact." />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/View%20Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
-### “Let’s build systems that scale, perform, and create real-world impact.”
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:7c3aed,100:06b6d4&height=120&section=footer" width="100%" />
+</p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitsingh)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,100:7c3aed&section=footer" width="100%" />
-
-</div>
