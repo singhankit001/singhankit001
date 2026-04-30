@@ -46,70 +46,124 @@
 
 <br/>
 
-## 🏆 Featured Projects
+<h2 align="center">🏆 Featured Projects</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:22c55e&height=3&section=header" width="100%" />
+</p>
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛍️ ShopSphere</h3>
-      <p align="center"><em>Premium e-commerce platform inspired by instant delivery systems.</em></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      </p>
-      <ul>
-        <li>Real-time product catalog & cart sync</li>
-        <li>Secure authentication & order flows</li>
-        <li>Deployment-ready Docker architecture</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/singhankit001/shopsphere-platform"><b>GitHub Repo</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 SkillSync.ai</h3>
-      <p align="center"><em>AI-powered career and internship discovery platform.</em></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      </p>
-      <ul>
-        <li>Intelligent job recommendations</li>
-        <li>Skill gap analysis & project ideas</li>
-        <li>Interactive AI career guidance</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/singhankit001/skillsync-ai"><b>GitHub Repo</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">⚡ Evox Ventures</h3>
-      <p align="center"><em>Event company platform built as Lead Developer.</em></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </p>
-      <p align="center">Premium landing page with a focus on responsive UI and brand-first experience. Architected for high-performance production deployment.</p>
-      <p align="center">
-        <a href="https://evox-ventures.vercel.app/"><b>Visit Website</b></a> | <a href="https://github.com/singhankit001/evox-ventures"><b>GitHub Repo</b></a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 ShopSphere</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20E--commerce-020617?style=for-the-badge&logo=shopify&logoColor=22c55e" />
+</p>
+
+<p align="center">
+Premium commerce platform inspired by instant-delivery systems, built with scalable backend architecture and production-ready deployment flow.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Express-020617?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-020617?style=flat-square&logo=mongodb&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/AWS-020617?style=flat-square&logo=amazonaws&logoColor=facc15" />
+</p>
+
+<ul>
+  <li>Built product catalog, cart, authentication, and order-flow architecture.</li>
+  <li>Designed scalable APIs for products, users, cart, and checkout logic.</li>
+  <li>Added deployment-ready structure using Docker/AWS-style production flow.</li>
+</ul>
+
+<p align="center">
+  <a href="https://github.com/singhankit001/shopsphere-platform"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 SkillSync.ai</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Career%20Platform-020617?style=for-the-badge&logo=openai&logoColor=a855f7" />
+</p>
+
+<p align="center">
+AI-powered career, internship, and project recommendation platform focused on skill mapping and personalized learning paths.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=facc15" />
+  <img src="https://img.shields.io/badge/AI%2FML-020617?style=flat-square&logo=tensorflow&logoColor=ff6b00" />
+</p>
+
+<ul>
+  <li>Built AI-guided career discovery flow for students.</li>
+  <li>Added skill-gap analysis and personalized project recommendations.</li>
+  <li>Designed clean dashboard experience for job and internship exploration.</li>
+</ul>
+
+<p align="center">
+  <a href="https://github.com/singhankit001/skillsync-ai"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td valign="top">
+
+<h3 align="center">⚡ Evox Ventures</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lead%20Developer-020617?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+</p>
+
+<p align="center">
+Premium event company platform designed with a brand-first interface, responsive layouts, polished sections, and production-focused frontend architecture.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-020617?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-020617?style=flat-square&logo=tailwindcss&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=facc15" />
+  <img src="https://img.shields.io/badge/Vercel-020617?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+<ul>
+  <li>Designed a premium brand-first landing page for an event company.</li>
+  <li>Built responsive UI with modern animations and polished visual hierarchy.</li>
+  <li>Optimized frontend structure for fast loading and production deployment.</li>
+</ul>
+
+<p align="center">
+  <a href="https://evox-ventures.vercel.app/"><img src="https://img.shields.io/badge/Visit%20Website-a855f7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/singhankit001/evox-ventures"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+<h2 align="center">🛠 Technical Arsenal</h2>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:7c3aed,100:22c55e&height=3&section=header" width="100%" />
+</p>
 
-## 🛠️ Technical Arsenal
 
 <div align="center">
 
