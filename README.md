@@ -27,18 +27,34 @@
 
 <br/>
 
-## 🚀 Executive Summary
+<img align="right" src="https://media.giphy.com/media/qgQUggCGvnP19b8Q0Q/giphy.gif" alt="developer coding" width="380" />
 
-> “Engineer focused on building scalable, high-performance systems and AI-driven products. I design backend architectures, build modern frontend experiences, and integrate intelligent workflows into production-ready applications.”
+### `> whoami`
 
-<br/>
+```javascript
+const developer = {
+  name: "Ankit Singh",
+  username: "singhankit001",
+  role: "AI/ML + Full Stack Developer",
+  focus: ["AI Products", "Full Stack Apps", "Automation"],
+  currentlyBuilding: ["SkillSync.ai", "ShopSphere", "Evox Ventures"],
+  techStack: {
+    languages: ["Python", "JavaScript", "TypeScript", "SQL"],
+    frontend: ["React", "Tailwind CSS", "HTML/CSS"],
+    backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
+    ai_ml: ["Machine Learning", "AI Integrations"]
+  },
+  mindset: "Build. Learn. Ship. Repeat.",
+  available: true
+};
+```
 
-## 👤 About Me
+- 🚀 Currently building **AI-powered full-stack products**
+- 🧠 Exploring **AI/ML, automation, and scalable web systems**
+- 💬 Ask me about **React, Node.js, Python, SQL, and AI projects**
+- 📫 Reach me at: **singhankit91624@gmail.com**
 
-- 🛠️ **Building** production-grade full-stack applications with a focus on scale.
-- 🧠 **Exploring** AI/ML-powered systems to solve complex real-world problems.
-- ☁️ **Interested** in scalable backend architecture, cloud deployment, and system design.
-- ✨ **Focused** on clean UI, performance optimization, and creating real-world impact.
+<br clear="all" />
 
 <br/>
 
