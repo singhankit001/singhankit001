@@ -22,9 +22,6 @@
 </div>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
 <br/>
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="developer coding" />
@@ -58,14 +55,14 @@ const developer = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<br/>
-
 <h2 align="center">🏆 Featured Projects</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:22c55e&height=3&section=header" width="100%" />
+  <b>Selected builds that highlight my AI, full-stack, and product engineering work.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:22c55e&height=2&section=header" width="85%" />
 </p>
 
 <table width="100%">
@@ -133,7 +130,6 @@ AI-powered career, internship, and project recommendation platform focused on sk
   <a href="https://skillsync.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/singhankit001/skillsync-ai"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
 
 </td>
 </tr>
@@ -211,7 +207,11 @@ Real-time campus shuttle tracking system focused on improving campus mobility an
 <h2 align="center">🛠 Technical Arsenal</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:7c3aed,100:22c55e&height=3&section=header" width="100%" />
+  <b>Production-grade technologies I use to build scalable products.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:7c3aed,100:22c55e&height=2&section=header" width="85%" />
 </p>
 
 
@@ -243,10 +243,16 @@ Real-time campus shuttle tracking system focused on improving campus mobility an
   <i>Performance. Consistency. Production-focused engineering.</i>
 </p>
 
+<br/>
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:22c55e&height=3&section=header" width="100%" />
+  <b>My open-source contributions and codebase activity metrics.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:22c55e&height=2&section=header" width="85%" />
 </p>
 
 <p align="center">
@@ -258,10 +264,16 @@ Real-time campus shuttle tracking system focused on improving campus mobility an
   <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhankit001&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e5e7eb" />
 </p>
 
-<h2 align="center">📈 Contribution Activity</h2>
+<br/>
+
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,50:06b6d4,100:7c3aed&height=3&section=header" width="100%" />
+  <b>A visual timeline of my consistent shipping and coding streak.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,50:06b6d4,100:7c3aed&height=2&section=header" width="85%" />
 </p>
 
 <p align="center">
@@ -270,10 +282,14 @@ Real-time campus shuttle tracking system focused on improving campus mobility an
 
 <br/>
 
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center">🏆 Core Achievements</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:22c55e&height=3&section=header" width="100%" />
+  <b>Highlights of my leadership, building, and engineering impact.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:06b6d4,100:22c55e&height=2&section=header" width="85%" />
 </p>
 
 <table width="100%">
@@ -319,7 +335,8 @@ Real-time campus shuttle tracking system focused on improving campus mobility an
   </tr>
 </table>
 
-<br>
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Let%E2%80%99s+build+systems+that+scale.;Let%E2%80%99s+ship+products+that+perform.;Let%E2%80%99s+create+real-world+impact." />
