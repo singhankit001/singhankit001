@@ -94,7 +94,7 @@ Premium commerce platform inspired by instant-delivery systems, built with scala
 </ul>
 
 <p align="center">
-  <a href="https://shopsphere.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="http://13.236.7.240/"><img src="https://img.shields.io/badge/Live%20Demo-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/singhankit001/shopsphere-platform"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -127,7 +127,7 @@ AI-powered career, internship, and project recommendation platform focused on sk
 </ul>
 
 <p align="center">
-  <a href="https://skillsync.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://skillsync-ai-d4m8.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/singhankit001/skillsync-ai"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
