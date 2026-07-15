@@ -43,12 +43,11 @@ const developer = {
 };
 ```
 
-<blockquote>
-  🚀 &nbsp; Currently building <b>AI-powered full-stack products</b> <br/>
-  🧠 &nbsp; Exploring <b>AI/ML, automation, and scalable web systems</b> <br/>
-  💬 &nbsp; Ask me about <b>React, Node.js, Python, SQL, and AI projects</b> <br/>
-  📫 &nbsp; Reach me at: <b><a href="mailto:singhankit91624@gmail.com">singhankit91624@gmail.com</a></b>
-</blockquote>
+<p align="left">
+  <a href="mailto:singhankit91624@gmail.com">
+    <img src="status.svg" alt="Current Status" />
+  </a>
+</p>
 
 <br clear="all" />
 
