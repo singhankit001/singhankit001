@@ -34,10 +34,10 @@ const developer = {
   username: "singhankit001",
   role: "AI/ML + Full Stack Developer",
   stack: {
-    languages: ["Python", "JavaScript", "TypeScript", "SQL"],
-    frontend: ["React", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
-    ai: ["Machine Learning", "AI Integrations"]
+    languages: ["Python", "TypeScript", "JavaScript", "SQL"],
+    frontend: ["React", "Next.js", "Three.js", "Tailwind CSS"],
+    backend: ["Node.js", "FastAPI", "Express.js", "PostgreSQL"],
+    ai: ["Agentic AI", "LLMs", "LangGraph", "RAG"]
   },
   motto: "Build, Learn, Sleep, Repeat.",
   available: true
@@ -69,66 +69,66 @@ const developer = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🛒 ShopSphere</h3>
+<h3 align="center">🎓 CampusConnect</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20E--commerce-020617?style=for-the-badge&logo=shopify&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/University%20Platform-020617?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
 </p>
 
 <p align="center">
-Premium commerce platform inspired by instant-delivery systems, built with scalable backend architecture and production-ready deployment flow.
+Full-stack university management platform with role-based dashboards, interactive SQL analytics engine, and immersive 3D UI.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=38bdf8" />
   <img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/Express-020617?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-020617?style=flat-square&logo=mongodb&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/AWS-020617?style=flat-square&logo=amazonaws&logoColor=facc15" />
+  <img src="https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=4169e1" />
+  <img src="https://img.shields.io/badge/Three.js-020617?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=2496ed" />
 </p>
 
 <ul>
-  <li>Built product catalog, cart, authentication, and order-flow architecture.</li>
-  <li>Designed scalable APIs for products, users, cart, and checkout logic.</li>
-  <li>Added deployment-ready structure using Docker/AWS-style production flow.</li>
+  <li>Engineered glassmorphism UI with Three.js WebGL 3D starfield background.</li>
+  <li>Implemented 26-table normalized PostgreSQL schema with SQL analytics engine.</li>
+  <li>Containerized stack using Docker Compose with Prisma auto-migrations.</li>
 </ul>
 
 <p align="center">
-  <a href="http://13.236.7.240/"><img src="https://img.shields.io/badge/Live%20Demo-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/singhankit001/shopsphere-platform"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://campusconnect.demo.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/singhankit001/CampusConnect"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 SkillSync.ai</h3>
+<h3 align="center">🤖 Novaris</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Career%20Platform-020617?style=for-the-badge&logo=openai&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/AI%20Repository%20Intelligence-020617?style=for-the-badge&logo=openai&logoColor=a855f7" />
 </p>
 
 <p align="center">
-AI-powered career, internship, and project recommendation platform focused on skill mapping and personalized learning paths.
+AI-powered GitHub repository intelligence platform that analyzes codebases and developer profiles using Agentic AI, LangGraph, and LLMs.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Next.js-020617?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=facc15" />
-  <img src="https://img.shields.io/badge/AI%2FML-020617?style=flat-square&logo=tensorflow&logoColor=ff6b00" />
+  <img src="https://img.shields.io/badge/FastAPI-020617?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=4169e1" />
+  <img src="https://img.shields.io/badge/Prisma-020617?style=flat-square&logo=prisma&logoColor=ffffff" />
 </p>
 
 <ul>
-  <li>Built AI-guided career discovery flow for students.</li>
-  <li>Added skill-gap analysis and personalized project recommendations.</li>
-  <li>Designed clean dashboard experience for job and internship exploration.</li>
+  <li>Implemented AI-driven repository scoring for Architecture and Code Complexity.</li>
+  <li>Integrated GitHub APIs, commit-history analysis, and dependency tracing workflows.</li>
+  <li>Developed a full-stack application for scalable codebase intelligence.</li>
 </ul>
 
 <p align="center">
-  <a href="https://skillsync-ai-d4m8.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/singhankit001/skillsync-ai"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://novaris-ai.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/singhankit001/Novaris"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </td>
@@ -221,16 +221,16 @@ Real-time campus shuttle tracking system focused on improving campus mobility an
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,python,express,prisma,postgresql&theme=dark" />
 
 ### AI / ML
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn&theme=dark" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,supabase&theme=dark" />
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,aws,linux,nginx&theme=dark" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
@@ -309,7 +309,7 @@ Real-time campus shuttle tracking system focused on improving campus mobility an
         <img src="https://img.shields.io/badge/5%2B%20Projects-06b6d4?style=for-the-badge&logo=github&logoColor=white" />
       </p>
       <p align="center">
-        Built and deployed full-stack applications across e-commerce, AI career systems, event platforms, and real-time tracking workflows.
+        Built and deployed full-stack applications across AI repository intelligence, university platforms, event platforms, and real-time tracking workflows.
       </p>
     </td>
   </tr>
