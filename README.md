@@ -11,7 +11,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhankit001/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhankit91624@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://evox-ventures.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/singhankit001)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhankit001)
 
@@ -94,7 +93,7 @@ Full-stack university management platform with role-based dashboards, interactiv
 </ul>
 
 <p align="center">
-  <a href="https://campusconnect.demo.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://campus-connect-beryl-alpha.vercel.app/login"><img src="https://img.shields.io/badge/Live%20Demo-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/singhankit001/CampusConnect"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -127,7 +126,7 @@ AI-powered GitHub repository intelligence platform that analyzes codebases and d
 </ul>
 
 <p align="center">
-  <a href="https://novaris-ai.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://novaris-psi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/singhankit001/Novaris"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -218,19 +217,19 @@ Real-time campus shuttle tracking system focused on improving campus mobility an
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,threejs&theme=dark" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,python,express,prisma,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,python,express,prisma,postgresql,django&theme=dark" />
 
 ### AI / ML
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn,opencv&theme=dark" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,supabase&theme=dark" />
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,aws,linux,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,aws,linux,nginx,vercel&theme=dark" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
@@ -345,7 +344,6 @@ Real-time campus shuttle tracking system focused on improving campus mobility an
 <p align="center">
   <a href="https://www.linkedin.com/in/singhankit001/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:singhankit91624@gmail.com"><img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://evox-ventures.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
