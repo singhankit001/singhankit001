@@ -65,6 +65,34 @@ const developer = {
 
 <table width="100%">
 <tr>
+<td width="100%" valign="top">
+
+<h3 align="center">🧠 Foundry: Agent Readiness Intelligence</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic%20AI%20Platform-020617?style=for-the-badge&logo=openai&logoColor=38bdf8" />
+</p>
+
+<p align="center">
+End-to-end multi-agent research platform evaluating software integration readiness using the Composio SDK and Model Context Protocol. Built with a 7-agent Python verification pipeline and a premium Next.js 15 executive dashboard.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Next.js-020617?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-020617?style=flat-square&logo=openai&logoColor=22c55e" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/singhankit001/Foundry"><img src="https://img.shields.io/badge/GitHub%20Repo-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">🎓 CampusConnect</h3>
